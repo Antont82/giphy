@@ -1,0 +1,7 @@
+version: '2'
+services:
+  node-app:
+    build: .
+    container_name: node-app
+    ports:
+      - "399:399"
