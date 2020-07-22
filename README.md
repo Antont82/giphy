@@ -10,9 +10,9 @@ docker-compose up --build
 *by default project configured to PORT 399
 
 # About the project:
-* The project is simple API usage with chashing 3d requests.
+* The project is simple API usage with caching 3d requests.
 
-## The tehnologyes in project are:
+## The technologies in project are:
 LRU - casheing module from npm (memory based)
 
 
