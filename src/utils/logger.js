@@ -27,7 +27,7 @@ winston.configure({
         label({ label: config.env }),
         json()
     ),
-    level: config.loger.level,
+    level: config.logger.level,
     transports: getTransports()
 });
 

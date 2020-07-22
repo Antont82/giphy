@@ -3,7 +3,7 @@ module.exports = {
         consoleLog: true,
         logLevel: "debug",
         directoryPath: 'logs',
-        fileName: 'link-node.log'
+        fileName: 'giphy-node.log'
     },
     web:{
         port:399
@@ -11,8 +11,5 @@ module.exports = {
     giphy:{
         key: 'API-KEY',
         limit:25
-    },
-    loger:{
-        level:'info'
     }
 };
