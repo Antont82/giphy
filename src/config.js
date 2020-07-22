@@ -1,7 +1,7 @@
 module.exports = {
     logger: {
         consoleLog: true,
-        logLevel: "debug",
+        logLevel: "info",
         directoryPath: 'logs',
         fileName: 'giphy-node.log'
     },
